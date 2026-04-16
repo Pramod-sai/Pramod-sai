@@ -15,9 +15,9 @@ I’m passionate about designing dynamic, responsive web applications that merge
 🎯 Goal: To deliver robust, maintainable, and user-friendly software solutions that scale with business needs  
 ---
 ## 🤝 Connect With Me
-📍 Texas, USA  
-📧 [pramodsai1124@gmail.com](mailto:pramodsai1124@gmail.com)    
-💬 Open to collaborations in Full Stack Development, Cloud Engineering, and Software Architecture  
+📍 TX, USA  
+📧 [pramodchowdary4848@gmail.com  
+💬 Open to collaborations in Full Stack Development, FrontEnd Engineering, and Software Architecture  
 
 ---
 
