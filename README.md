@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pramod Sai | Senior Full Stack Engineer
 
-**6+ Years** | **Fintech & Manufacturing Expert** | **Microservices Architect**
+**Fintech & Manufacturing Expert** | **FrontEnd and Microservices Architect**
 
 I architect and build enterprise-scale, high-performance applications that process millions of transactions daily. Expert in designing real-time event-driven systems, optimizing complex data pipelines, and delivering scalable solutions with sub-100ms latency and 99.99% uptime.
 
